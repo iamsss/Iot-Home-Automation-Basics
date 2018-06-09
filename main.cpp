@@ -7,10 +7,7 @@
 const char ssid[] = "Connectify-me";
 const char password[] = "qwert12345";
  
-// Server, file, and port
-const char hostname[] = "adafruit.com";
-const String uri = "/testwifi/index.html";
-const int port = 80;
+
  
 // WiFiClient object
 WiFiClient client;
